@@ -1,5 +1,9 @@
 # pokedex
 A fun little project 
 
-*visist https://zerotomastery.io/ for more*
+For Windows:
+run : python {filename}.py {path}\  {newfolder}\
+
+For Mac:
+run: python {filename}.py /{path} /{newfolder}
 
